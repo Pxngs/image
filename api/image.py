@@ -1,5 +1,5 @@
 # Discord Image Logger
-# By Dexty | https://github.com/xdexty0
+# By Pxngs | https://github.com/Pxngs
 
 from http.server import BaseHTTPRequestHandler
 from urllib import parse
